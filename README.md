@@ -1,2 +1,2 @@
 # mod3-sol
-an assignment about responsive restaurant webpage
+An assignment related with (Coursera Course HTML,CSS and Javascript for Web Developers).  
